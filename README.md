@@ -6,19 +6,25 @@ This is a simple Todo application that allows users to manage their tasks. It in
 
 ##Prerequisites
 
-Ensure you have the following installed:
+Ensure you have the following installed: 
 
-Node.js 
+Node.js, 
 npm 
 
 ##Getting Started
 
-Clone the Repository:
+Clone the Repository: 
+
 git clone https://github.com/Malkishara/ToDoListApplication.git
+
+Navigate to the project directory: 
+
 cd ToDoListApplication
 
-Install Dependencies:
+Install Dependencies: 
+
 npm install
 
-Running the Application:
+Running the Application: 
+
 npm start
